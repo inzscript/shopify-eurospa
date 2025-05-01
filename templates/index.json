@@ -1,0 +1,1003 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+ {
+    "sections": {
+      "image_banner_Gd4mzL": {
+        "type": "image-banner",
+        "blocks": {
+          "heading_JnHbE7": {
+            "type": "heading",
+            "settings": {
+              "heading": "Bring the Spa Home",
+              "heading_size": "h1"
+            }
+          },
+          "text_yKUYVP": {
+            "type": "text",
+            "settings": {
+              "text": "",
+              "text_style": "body"
+            }
+          },
+          "buttons_qXWeTE": {
+            "type": "buttons",
+            "settings": {
+              "button_label_1": "",
+              "button_link_1": "",
+              "button_style_secondary_1": false,
+              "button_label_2": "Explore Products",
+              "button_link_2": "shopify://collections",
+              "button_style_secondary_2": false
+            }
+          }
+        },
+        "block_order": [
+          "heading_JnHbE7",
+          "text_yKUYVP",
+          "buttons_qXWeTE"
+        ],
+        "settings": {
+          "image": "shopify://shop_images/5_b0bb9900-64fd-4d74-8cee-16be31485056.png",
+          "image_overlay_opacity": 0,
+          "image_height": "adapt",
+          "desktop_content_position": "middle-center",
+          "show_text_box": true,
+          "desktop_content_alignment": "center",
+          "color_scheme": "scheme-4",
+          "image_behavior": "none",
+          "mobile_content_alignment": "center",
+          "stack_images_on_mobile": true,
+          "show_text_below": true
+        }
+      },
+      "multirow_PX3wcg": {
+        "type": "multirow",
+        "blocks": {
+          "row_TDFRCm": {
+            "type": "row",
+            "settings": {
+              "image": "shopify://shop_images/Untitled_design_9.png",
+              "caption": "Shop & Spend $119",
+              "heading": "GET 2 FREE GIFTS",
+              "text": "<p>+ 4oz. Lavender ShowerSpa Mist <br/>+ a 4oz. Classic Eucalyptus ShowerSpa Mist</p>",
+              "button_label": "Start Shopping",
+              "button_link": "shopify://collections"
+            }
+          },
+          "row_BWGQGc": {
+            "type": "row",
+            "settings": {
+              "image": "shopify://shop_images/488231551_9493731437392296_3318475962862287978_n.jpg",
+              "caption": "SHOP & SPEND $159",
+              "heading": "RECEIVE A BONUS GIFT",
+              "text": "<p>+ a second 4oz. Classic Eucalyptus ShowerSpa Mist</p>",
+              "button_label": "Start Shopping",
+              "button_link": "shopify://collections"
+            }
+          }
+        },
+        "block_order": [
+          "row_TDFRCm",
+          "row_BWGQGc"
+        ],
+        "settings": {
+          "image_height": "medium",
+          "desktop_image_width": "medium",
+          "heading_size": "h1",
+          "text_style": "body",
+          "button_style": "primary",
+          "desktop_content_position": "middle",
+          "desktop_content_alignment": "left",
+          "image_layout": "alternate-left",
+          "section_color_scheme": "scheme-1",
+          "row_color_scheme": "scheme-4",
+          "mobile_content_alignment": "center",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "featured_collection_wyfe9e": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "What's New from European Spa Source",
+          "heading_size": "h1",
+          "description": "",
+          "show_description": false,
+          "description_style": "body",
+          "collection": "new-products",
+          "products_to_show": 4,
+          "columns_desktop": 4,
+          "full_width": true,
+          "show_view_all": true,
+          "view_all_style": "solid",
+          "enable_desktop_slider": false,
+          "color_scheme": "",
+          "image_ratio": "square",
+          "image_shape": "default",
+          "show_secondary_image": true,
+          "show_vendor": false,
+          "show_rating": false,
+          "quick_add": "standard",
+          "columns_mobile": "2",
+          "swipe_on_mobile": true,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "rich_text": {
+        "type": "rich-text",
+        "blocks": {
+          "heading": {
+            "type": "heading",
+            "settings": {
+              "heading": "European Spa Source",
+              "heading_size": "hxxl"
+            }
+          },
+          "text": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Inspired by luxury spas around the world, our aromatherapy products were designed for you to enjoy a spa experience at home.</p>"
+            }
+          }
+        },
+        "block_order": [
+          "heading",
+          "text"
+        ],
+        "disabled": true,
+        "settings": {
+          "desktop_content_position": "center",
+          "content_alignment": "center",
+          "color_scheme": "background-1",
+          "full_width": true,
+          "padding_top": 40,
+          "padding_bottom": 0
+        }
+      },
+      "featured_collection": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "ShowerSpa Mist™",
+          "heading_size": "h0",
+          "description": "<p>Embark on a sensory journey with our exclusive ShowerSpa Mist™ range. Elevate your daily routine to new heights.</p>",
+          "show_description": false,
+          "description_style": "subtitle",
+          "collection": "shower-spa-mist",
+          "products_to_show": 4,
+          "columns_desktop": 4,
+          "full_width": false,
+          "show_view_all": true,
+          "view_all_style": "outline",
+          "enable_desktop_slider": false,
+          "color_scheme": "scheme-9ce77f34-2e82-43a3-9567-63139d054c16",
+          "image_ratio": "portrait",
+          "image_shape": "default",
+          "show_secondary_image": true,
+          "show_vendor": true,
+          "show_rating": true,
+          "quick_add": "standard",
+          "columns_mobile": "2",
+          "swipe_on_mobile": true,
+          "padding_top": 28,
+          "padding_bottom": 36
+        }
+      },
+      "rich_text_bVXRwP": {
+        "type": "rich-text",
+        "blocks": {
+          "heading_B7xjTF": {
+            "type": "heading",
+            "settings": {
+              "heading": "<strong>Don't miss out on our Blowout Sale</strong>",
+              "heading_size": "h1"
+            }
+          },
+          "text_jkH3qa": {
+            "type": "text",
+            "settings": {
+              "text": ""
+            }
+          },
+          "button_ywVib7": {
+            "type": "button",
+            "settings": {
+              "button_label": "Shop Now",
+              "button_link": "shopify://collections/blowout-specials",
+              "button_style_secondary": false,
+              "button_label_2": "",
+              "button_link_2": "",
+              "button_style_secondary_2": false
+            }
+          }
+        },
+        "block_order": [
+          "heading_B7xjTF",
+          "text_jkH3qa",
+          "button_ywVib7"
+        ],
+        "settings": {
+          "desktop_content_position": "center",
+          "content_alignment": "center",
+          "color_scheme": "scheme-4",
+          "full_width": true,
+          "padding_top": 28,
+          "padding_bottom": 24
+        }
+      },
+      "rich_text_hQfpNG": {
+        "type": "rich-text",
+        "blocks": {
+          "heading_8E8xhi": {
+            "type": "heading",
+            "settings": {
+              "heading": "",
+              "heading_size": "h2"
+            }
+          },
+          "text_pRkcfp": {
+            "type": "text",
+            "settings": {
+              "text": ""
+            }
+          },
+          "button_3hMNB4": {
+            "type": "button",
+            "settings": {
+              "button_label": "Explore All",
+              "button_link": "shopify://collections",
+              "button_style_secondary": true,
+              "button_label_2": "Create A Personalized Profile",
+              "button_link_2": "",
+              "button_style_secondary_2": false
+            }
+          }
+        },
+        "block_order": [
+          "heading_8E8xhi",
+          "text_pRkcfp",
+          "button_3hMNB4"
+        ],
+        "disabled": true,
+        "settings": {
+          "desktop_content_position": "center",
+          "content_alignment": "center",
+          "color_scheme": "scheme-2",
+          "full_width": true,
+          "padding_top": 40,
+          "padding_bottom": 52
+        }
+      },
+      "1732062360de0b05f2": {
+        "type": "apps",
+        "blocks": {
+          "bee_logo_showcase_app_block_eTaNe7": {
+            "type": "shopify://apps/bee-logo-showcase/blocks/app-block/aecc13ad-a68a-4275-a50d-950c5b442628",
+            "settings": {
+              "banner": "banner-8"
+            }
+          }
+        },
+        "block_order": [
+          "bee_logo_showcase_app_block_eTaNe7"
+        ],
+        "settings": {
+          "include_margins": false
+        }
+      },
+      "featured_collection_WhwwX3": {
+        "type": "featured-collection",
+        "disabled": true,
+        "settings": {
+          "title": "Explore Spa Scented Candles",
+          "heading_size": "h2",
+          "description": "",
+          "show_description": false,
+          "description_style": "subtitle",
+          "collection": "luxury-candles",
+          "products_to_show": 4,
+          "columns_desktop": 3,
+          "full_width": true,
+          "show_view_all": true,
+          "view_all_style": "outline",
+          "enable_desktop_slider": false,
+          "color_scheme": "scheme-2",
+          "image_ratio": "portrait",
+          "image_shape": "default",
+          "show_secondary_image": true,
+          "show_vendor": true,
+          "show_rating": true,
+          "quick_add": "standard",
+          "columns_mobile": "2",
+          "swipe_on_mobile": true,
+          "padding_top": 28,
+          "padding_bottom": 36
+        }
+      },
+      "image_with_text_fegpEe": {
+        "type": "image-with-text",
+        "blocks": {
+          "heading_4qkJHV": {
+            "type": "heading",
+            "settings": {
+              "heading": "<a href=\"/collections/bundles\" title=\"Bundles\"><strong>Bundle & Save</strong></a>",
+              "heading_size": "h1"
+            }
+          },
+          "text_qLg6Wn": {
+            "type": "text",
+            "settings": {
+              "text": "",
+              "text_style": "body"
+            }
+          },
+          "button_ejULwP": {
+            "type": "button",
+            "settings": {
+              "button_label": "SHOP BUNDLES",
+              "button_link": "shopify://collections/bundles",
+              "button_style_secondary": true
+            }
+          }
+        },
+        "block_order": [
+          "heading_4qkJHV",
+          "text_qLg6Wn",
+          "button_ejULwP"
+        ],
+        "disabled": true,
+        "settings": {
+          "image": "shopify://shop_images/CalmingLavenderSpaBundle_a14bdb37-90a3-4564-8e99-6d4b5cc2acae.png",
+          "height": "medium",
+          "desktop_image_width": "medium",
+          "layout": "text_first",
+          "desktop_content_position": "middle",
+          "desktop_content_alignment": "center",
+          "content_layout": "no-overlap",
+          "section_color_scheme": "scheme-1",
+          "color_scheme": "",
+          "image_behavior": "zoom-in",
+          "mobile_content_alignment": "center",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "rich_text_xVncG8": {
+        "type": "rich-text",
+        "blocks": {
+          "heading_ACmXH8": {
+            "type": "heading",
+            "settings": {
+              "heading": "A Scent for Every Mood",
+              "heading_size": "h0"
+            }
+          },
+          "text_pYRBqR": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Each profile collection is thoughtfully curated to cater to specific moods and experiences, ensuring that every product enhances your daily rituals with the essence of a luxurious spa.</p>"
+            }
+          },
+          "button_GCqKQ9": {
+            "type": "button",
+            "disabled": true,
+            "settings": {
+              "button_label": "Explore All",
+              "button_link": "shopify://collections",
+              "button_style_secondary": true,
+              "button_label_2": "Create A Personalized Profile",
+              "button_link_2": "",
+              "button_style_secondary_2": false
+            }
+          }
+        },
+        "block_order": [
+          "heading_ACmXH8",
+          "text_pYRBqR",
+          "button_GCqKQ9"
+        ],
+        "settings": {
+          "desktop_content_position": "left",
+          "content_alignment": "left",
+          "color_scheme": "scheme-9ce77f34-2e82-43a3-9567-63139d054c16",
+          "full_width": false,
+          "padding_top": 20,
+          "padding_bottom": 24
+        }
+      },
+      "multirow_UzAEqq": {
+        "type": "multirow",
+        "blocks": {
+          "row_U8ihzR": {
+            "type": "row",
+            "settings": {
+              "image": "shopify://shop_images/UltimateSpaBundle-min.jpg",
+              "caption": "Bundle & Save",
+              "heading": "Bundles",
+              "text": "<p>Bundle Up Your Savings on Must-Have Essentials!</p>",
+              "button_label": "Bundle & Save",
+              "button_link": "shopify://collections/bundles"
+            }
+          },
+          "row_dHBPEF": {
+            "type": "row",
+            "settings": {
+              "image": "shopify://shop_images/1_77d93a74-bd2f-44a7-b5ea-ce7ae4df4dcf.png",
+              "caption": "Spa Profile",
+              "heading": "Focus & Energy",
+              "text": "<p>Energize and invigorate your day with the <strong>Focus & Energy Collection</strong>. Featuring the fresh, citrusy <strong>Eucalyptus + Lemongrass Blend ShowerSpa Mist</strong> and the classic, revitalizing <strong>Eucalyptus ShowerSpa Mist</strong>, this collection awakens your senses and sharpens focus. Ideal for morning routines or a refreshing pick-me-up, these mists transform your shower into an energizing wellness retreat. Perfect for fitness areas, steam rooms, or home showers, this collection revitalizes both body and mind.</p>",
+              "button_label": "Explore",
+              "button_link": "shopify://collections/focus-energy"
+            }
+          },
+          "row_pw48Ex": {
+            "type": "row",
+            "settings": {
+              "image": "shopify://shop_images/3_063ae7b1-4fd4-4f44-bd8e-c9fceab46c04.png",
+              "caption": "Spa Profile",
+              "heading": "Calm",
+              "text": "<p>Find serenity and peace with the <strong>Calm Collection</strong>, featuring the <strong>Eucalyptus + Lavender Blend ShowerSpa Mist</strong> and the comforting <strong>Sleep Well Lavender + Eucalyptus Pillow Mist</strong>. The perfect companions for unwinding after a long day, these products blend the calming aroma of French lavender with the soothing essence of eucalyptus. Whether preparing for sleep or indulging in a relaxing shower, the Calm Collection transforms your routine into a sanctuary of tranquility.</p>",
+              "button_label": "Explore",
+              "button_link": "shopify://collections/calm"
+            }
+          },
+          "row_hXxk6m": {
+            "type": "row",
+            "settings": {
+              "image": "shopify://shop_images/11_0f849f35-6627-49a6-ad87-23aba29302cb.png",
+              "caption": "Spa Profile",
+              "heading": "Bliss",
+              "text": "<p>Indulge in the luxurious <strong>Bliss Collection</strong>, where exotic aromas meet ultimate relaxation. The collection includes the tropical <strong>Eucalyptus + Jasmine Blend ShowerSpa Mist</strong>, infused with jasmine and ylang-ylang for a mood-lifting experience, and the restful <strong>Sleep Well Lavender + Eucalyptus Pillow Mist</strong>, ensuring a peaceful night's sleep. Perfect for moments of self-care, this collection enhances relaxation with a touch of elegance.</p>",
+              "button_label": "Explore",
+              "button_link": "shopify://collections/bliss"
+            }
+          },
+          "row_ab88DA": {
+            "type": "row",
+            "settings": {
+              "image": "shopify://shop_images/Screenshot_2024-11-27_at_5.49.26_PM.png",
+              "caption": "Spa Profile",
+              "heading": "Woodsmoke + Leather",
+              "text": "<p>Experience the bold and rugged <strong>Masculine Collection</strong>, highlighted by the distinctive <strong>Woodsmoke + Leather ShowerSpa Mist</strong>. This blend combines 100% natural eucalyptus with warm notes of cedarwood, cherry, clove, and vanilla to create a sophisticated and comforting aroma. Designed for those who appreciate a refined yet earthy scent, this collection is ideal for grounding your senses after a long day or a brisk outdoor adventure.</p>",
+              "button_label": "Explore",
+              "button_link": "shopify://collections/masculine"
+            }
+          },
+          "row_B4hagq": {
+            "type": "row",
+            "settings": {
+              "image": "shopify://shop_images/6_7c9d68e4-5732-496c-9446-eb90794a0802.png",
+              "caption": "Spa Profle",
+              "heading": "Sensual",
+              "text": "<p>Ignite passion and romance with the <strong>Sensual Collection</strong>, featuring the enchanting <strong>Eucalyptus + Jasmine Blend ShowerSpa Mist</strong>. This exotic blend of jasmine, ylang-ylang, and eucalyptus creates an ambiance of love and connection, perfect for intimate moments or simply pampering yourself. The Sensual Collection is your go-to for transforming any shower into an indulgent escape.</p>",
+              "button_label": "Explore",
+              "button_link": "shopify://collections/sensual"
+            }
+          }
+        },
+        "block_order": [
+          "row_U8ihzR",
+          "row_dHBPEF",
+          "row_pw48Ex",
+          "row_hXxk6m",
+          "row_ab88DA",
+          "row_B4hagq"
+        ],
+        "settings": {
+          "image_height": "small",
+          "desktop_image_width": "medium",
+          "heading_size": "h1",
+          "text_style": "body",
+          "button_style": "secondary",
+          "desktop_content_position": "middle",
+          "desktop_content_alignment": "left",
+          "image_layout": "alternate-left",
+          "section_color_scheme": "scheme-9ce77f34-2e82-43a3-9567-63139d054c16",
+          "row_color_scheme": "scheme-9ce77f34-2e82-43a3-9567-63139d054c16",
+          "mobile_content_alignment": "left",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "custom_liquid_K8hMqp": {
+        "type": "custom-liquid",
+        "settings": {
+          "custom_liquid": "<div class=\"quiz-container\">\n  <style>\n    .quiz-container {\n      max-width: 800px;\n      margin: 40px auto;\n      padding: 20px;\n      font-family: Arial, sans-serif;\n    }\n    .quiz-step {\n      display: none;\n    }\n    .quiz-step.active {\n      display: block;\n    }\n    .quiz-button {\n      display: block;\n      width: 100%;\n      padding: 15px;\n      margin: 10px 0;\n      border: 1px solid #E0D9CF;\n      border-radius: 8px;\n      background: white;\n      color: #666366;\n      text-align: left;\n      cursor: pointer;\n    }\n    .quiz-button:hover {\n      background: #E0D9CF;\n    }\n    .progress-bar {\n      background: #E0D9CF;\n      height: 8px;\n      border-radius: 4px;\n      margin: 20px 0;\n    }\n    .progress-bar-fill {\n      background: #94765B;\n      height: 100%;\n      width: 20%;\n      border-radius: 4px;\n      transition: width 0.3s ease;\n    }\n    .quiz-heading {\n      color: #666366;\n      font-size: 24px;\n      text-align: center;\n      margin-bottom: 20px;\n    }\n    .quiz-question {\n      color: #666366;\n      font-size: 18px;\n      margin-bottom: 20px;\n    }\n    .result-card {\n      background: #E0D9CF;\n      padding: 20px;\n      border-radius: 8px;\n      margin: 20px 0;\n      color: #666366;\n    }\n  </style>\n\n  <h1 class=\"quiz-heading\">Discover Your Personal Spa Profile Preference</h1>\n  \n  <div class=\"progress-bar\">\n    <div class=\"progress-bar-fill\"></div>\n  </div>\n\n  <!-- Question 1 -->\n  <div class=\"quiz-step active\" data-step=\"1\">\n    <p class=\"quiz-question\"></p>\n    <button class=\"quiz-button\" data-profile=\"energy\">I need to recharge and feel energized</button>\n    <button class=\"quiz-button\" data-profile=\"calm\">I want to relax and find inner peace</button>\n    <button class=\"quiz-button\" data-profile=\"sensual\">I'm seeking a luxurious escape</button>\n    <button class=\"quiz-button\" data-profile=\"focus\">I need to clear my mind and focus</button>\n  </div>\n\n  <!-- Question 2 -->\n  <div class=\"quiz-step\" data-step=\"2\">\n    <p class=\"quiz-question\">When do you typically make time for self-care?</p>\n    <button class=\"quiz-button\" data-profile=\"energy\">Morning - it sets the tone for my day</button>\n    <button class=\"quiz-button\" data-profile=\"calm\">Evening - to unwind after a long day</button>\n    <button class=\"quiz-button\" data-profile=\"bliss\">Weekends - when I can fully immerse</button>\n    <button class=\"quiz-button\" data-profile=\"masculine\">Whenever I can squeeze it in</button>\n  </div>\n\n  <!-- Question 3 -->\n  <div class=\"quiz-step\" data-step=\"3\">\n    <p class=\"quiz-question\">Which scent profile appeals to you most?</p>\n    <button class=\"quiz-button\" data-profile=\"energy\">Fresh and invigorating</button>\n    <button class=\"quiz-button\" data-profile=\"masculine\">Warm and comforting</button>\n    <button class=\"quiz-button\" data-profile=\"sensual\">Floral and romantic</button>\n    <button class=\"quiz-button\" data-profile=\"focus\">Clean and pure</button>\n  </div>\n\n  <!-- Results -->\n  <div class=\"quiz-step\" data-step=\"results\">\n    <div class=\"result-card\">\n      <h2 style=\"margin-bottom: 15px;\">Your Spa Profile</h2>\n      <p class=\"result-description\"></p>\n    </div>\n  </div>\n\n  <script>\n    const profileData = {\n      energy: \"You need products that energize and revitalize. Try our Eucalyptus + Lemongrass blend for an invigorating boost to start your day.\",\n      calm: \"You value tranquility and peace. Our Eucalyptus + Lavender blend and Sleep Well Pillow Mist will help you unwind and find serenity.\",\n      focus: \"You seek clarity and mental sharpness. Our Eucalyptus + Lemongrass blend will help you maintain focus and productivity.\",\n      bliss: \"You seek pure joy and relaxation. Our Eucalyptus + Jasmine blend will transport you to a state of bliss.\",\n      masculine: \"You appreciate bold, distinctive scents. Our Eucalyptus + Woodsmoke & Leather blend offers a perfect balance of strength and refinement.\",\n      sensual: \"You desire an indulgent escape. Our Eucalyptus + Jasmine blend creates an atmosphere of luxury and romance.\"\n    };\n\n    let currentStep = 1;\n    const totalSteps = 3;\n    let profileScores = {};\n\n    function updateProgress() {\n      const progress = (currentStep / totalSteps) * 100;\n      document.querySelector('.progress-bar-fill').style.width = progress + '%';\n    }\n\n    function showNextStep() {\n      document.querySelector(`[data-step=\"${currentStep}\"]`).classList.remove('active');\n      currentStep++;\n      \n      if (currentStep <= totalSteps) {\n        document.querySelector(`[data-step=\"${currentStep}\"]`).classList.add('active');\n        updateProgress();\n      } else {\n        showResults();\n      }\n    }\n\n    function calculateProfile() {\n      let maxScore = 0;\n      let topProfile = '';\n      \n      Object.entries(profileScores).forEach(([profile, score]) => {\n        if (score > maxScore) {\n          maxScore = score;\n          topProfile = profile;\n        }\n      });\n      \n      return topProfile;\n    }\n\n    function showResults() {\n      const profile = calculateProfile();\n      document.querySelector(`[data-step=\"results\"]`).classList.add('active');\n      document.querySelector('.result-description').textContent = profileData[profile];\n    }\n\n    document.querySelectorAll('.quiz-button').forEach(button => {\n      button.addEventListener('click', function() {\n        const profile = this.getAttribute('data-profile');\n        profileScores[profile] = (profileScores[profile] || 0) + 1;\n        showNextStep();\n      });\n    });\n  </script>\n</div>",
+          "color_scheme": "scheme-9ce77f34-2e82-43a3-9567-63139d054c16",
+          "padding_top": 0,
+          "padding_bottom": 0
+        }
+      },
+      "1731986457e9070baf": {
+        "type": "apps",
+        "blocks": {
+          "instafeed_app_block_YMw3wr": {
+            "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+            "settings": {
+              "title": "",
+              "title_color": "#ffffff",
+              "title_size_v2": 0,
+              "alignment": "left",
+              "margin_top": 0,
+              "margin_bottom": 0,
+              "margin_sides": 0,
+              "show_instagram_link": false,
+              "link_alignment": "left",
+              "link_color": "#000000",
+              "background_color": "#ffffff",
+              "feed_id": "",
+              "html_area": ""
+            }
+          }
+        },
+        "block_order": [
+          "instafeed_app_block_YMw3wr"
+        ],
+        "settings": {
+          "include_margins": true
+        }
+      },
+      "collection_list_WzgR9H": {
+        "type": "collection-list",
+        "blocks": {
+          "featured_collection_ceLMx8": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "focus-energy"
+            }
+          },
+          "featured_collection_FkCAtk": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "calm"
+            }
+          },
+          "featured_collection_4RNaiB": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "bliss"
+            }
+          },
+          "featured_collection_J3VccC": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "sensual"
+            }
+          },
+          "featured_collection_wPpjAe": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "masculine"
+            }
+          }
+        },
+        "block_order": [
+          "featured_collection_ceLMx8",
+          "featured_collection_FkCAtk",
+          "featured_collection_4RNaiB",
+          "featured_collection_J3VccC",
+          "featured_collection_wPpjAe"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "Explore Your Perfect Profile Picks",
+          "heading_size": "h0",
+          "image_ratio": "square",
+          "columns_desktop": 2,
+          "color_scheme": "scheme-1",
+          "show_view_all": false,
+          "columns_mobile": "1",
+          "swipe_on_mobile": true,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "newsletter_bEV6z6": {
+        "type": "newsletter",
+        "blocks": {
+          "heading_eiTJkj": {
+            "type": "heading",
+            "settings": {
+              "heading": "Subscribe to our emails",
+              "heading_size": "h1"
+            }
+          },
+          "paragraph_fKjAnF": {
+            "type": "paragraph",
+            "settings": {
+              "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+            }
+          },
+          "email_form_DjMtMX": {
+            "type": "email_form",
+            "settings": {}
+          }
+        },
+        "block_order": [
+          "heading_eiTJkj",
+          "paragraph_fKjAnF",
+          "email_form_DjMtMX"
+        ],
+        "settings": {
+          "color_scheme": "",
+          "full_width": true,
+          "padding_top": 40,
+          "padding_bottom": 52
+        }
+      },
+      "f1b6ef72-b112-430e-bcc6-e32c43bb1516": {
+        "type": "video",
+        "disabled": true,
+        "settings": {
+          "heading": "Explore Our ShowerSpa Mist",
+          "heading_size": "h1",
+          "enable_video_looping": true,
+          "video_url": "https://vimeo.com/857222425",
+          "cover_image": "shopify://shop_images/ess.jpg",
+          "description": "European Spa Source - ShowerSpa Mist, create a luxury shower spa experience.",
+          "full_width": false,
+          "color_scheme": "scheme-1",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "multicolumn": {
+        "type": "multicolumn",
+        "blocks": {
+          "column1": {
+            "type": "column",
+            "settings": {
+              "title": "",
+              "text": "<p>\"Can’t get enough of these scents! Smells just like a spa.\"</p><p>- Denise J.</p>",
+              "link_label": "",
+              "link": ""
+            }
+          },
+          "column2": {
+            "type": "column",
+            "settings": {
+              "title": "",
+              "text": "<p>\"I love the Eucalyptus shower mist. It makes every day feel like a spa day. I use it almost every time I shower. It can be both relaxing and energizing.\"</p><p>- Michelle P.</p>",
+              "link_label": "",
+              "link": ""
+            }
+          },
+          "column3": {
+            "type": "column",
+            "settings": {
+              "title": "",
+              "text": "<p>\"The shower mist makes every shower smell like a high end spa. Truly a game changer for the shower.\"</p><p>- Jessica R.</p>",
+              "link_label": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "column1",
+          "column2",
+          "column3"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "",
+          "heading_size": "h1",
+          "image_width": "third",
+          "image_ratio": "adapt",
+          "columns_desktop": 3,
+          "column_alignment": "center",
+          "background_style": "none",
+          "button_label": "Customer Reviews",
+          "button_link": "shopify://pages/reviews",
+          "color_scheme": "background-1",
+          "columns_mobile": "1",
+          "swipe_on_mobile": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "video": {
+        "type": "video",
+        "disabled": true,
+        "settings": {
+          "heading": "As Seen on Allure",
+          "heading_size": "h1",
+          "enable_video_looping": false,
+          "video_url": "https://youtu.be/4oK1l7MxUx0?si=5jXGSILnyQbjaJ9q&t=436",
+          "cover_image": "shopify://shop_images/Screenshot_2022-09-28_120335.webp",
+          "description": "nicole-scherzinger-european-spa-source",
+          "full_width": false,
+          "color_scheme": "background-1",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "collage": {
+        "type": "collage",
+        "blocks": {
+          "collection-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "luxury-candles"
+            }
+          },
+          "52eea767-427d-454c-b289-3c6367dd947e": {
+            "type": "collection",
+            "settings": {
+              "collection": "spa-bath-crystals"
+            }
+          },
+          "collection-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "shower-spa-mist"
+            }
+          }
+        },
+        "block_order": [
+          "collection-0",
+          "52eea767-427d-454c-b289-3c6367dd947e",
+          "collection-1"
+        ],
+        "settings": {
+          "heading": "",
+          "heading_size": "h2",
+          "desktop_layout": "left",
+          "mobile_layout": "collage",
+          "card_styles": "product-card-wrapper",
+          "color_scheme": "scheme-9ce77f34-2e82-43a3-9567-63139d054c16",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "rich_text_DGP8Kz": {
+        "type": "rich-text",
+        "blocks": {
+          "heading_w4hj9w": {
+            "type": "heading",
+            "settings": {
+              "heading": "Gifts",
+              "heading_size": "h1"
+            }
+          },
+          "text_MFBHcy": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Discover luxurious gifts for everyone on your list. Exclusive items that elevate gifting to an art form.</p>"
+            }
+          },
+          "button_67NngR": {
+            "type": "button",
+            "disabled": true,
+            "settings": {
+              "button_label": "Button label",
+              "button_link": "",
+              "button_style_secondary": false,
+              "button_label_2": "",
+              "button_link_2": "",
+              "button_style_secondary_2": false
+            }
+          }
+        },
+        "block_order": [
+          "heading_w4hj9w",
+          "text_MFBHcy",
+          "button_67NngR"
+        ],
+        "disabled": true,
+        "settings": {
+          "desktop_content_position": "center",
+          "content_alignment": "center",
+          "color_scheme": "",
+          "full_width": true,
+          "padding_top": 40,
+          "padding_bottom": 52
+        }
+      },
+      "multirow_9JTDAB": {
+        "type": "multirow",
+        "blocks": {
+          "row_Ab7Cqp": {
+            "type": "row",
+            "settings": {
+              "image": "shopify://shop_images/How_to_Wrap_Bridal_Shower_Gifts_DIGIBUDDHA_3_1024x1024_e4f4a3ff-78b9-44d8-ae09-c8fc8838e136.webp",
+              "caption": "Gifts",
+              "heading": "The Traveler",
+              "text": "<p>\"Bon Voyage!\" - Shop Gifts for Every Jetsetter.</p>",
+              "button_label": "Shop Now",
+              "button_link": "shopify://collections/travel-kit"
+            }
+          },
+          "row_HLjUCY": {
+            "type": "row",
+            "settings": {
+              "caption": "Gifts",
+              "heading": "The Workaholic",
+              "text": "<p>Gifts that Say 'Take a Break!' Perfect for the Busy Bee Who Needs to Unwind.</p>",
+              "button_label": "Shop Now",
+              "button_link": ""
+            }
+          },
+          "row_wqbjae": {
+            "type": "row",
+            "settings": {
+              "caption": "The Overwhelmed",
+              "heading": "The Overwhelmed",
+              "text": "<p>Gifts to help your loved ones decompress in style!</p>",
+              "button_label": "Spread Joy",
+              "button_link": "shopify://collections/luxury-candles"
+            }
+          }
+        },
+        "block_order": [
+          "row_Ab7Cqp",
+          "row_HLjUCY",
+          "row_wqbjae"
+        ],
+        "disabled": true,
+        "settings": {
+          "image_height": "medium",
+          "desktop_image_width": "medium",
+          "heading_size": "h1",
+          "text_style": "body",
+          "button_style": "secondary",
+          "desktop_content_position": "middle",
+          "desktop_content_alignment": "left",
+          "image_layout": "alternate-left",
+          "section_color_scheme": "",
+          "row_color_scheme": "",
+          "mobile_content_alignment": "left",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "image_with_text_zqYhrw": {
+        "type": "image-with-text",
+        "blocks": {
+          "heading_FfengH": {
+            "type": "heading",
+            "settings": {
+              "heading": "Real People , Real Reviews",
+              "heading_size": "h1"
+            }
+          },
+          "text_GTrt4d": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Don't take it from us! Take it from real people who love European Spa Source and our products! <br/>Thank you for your conitnued support!</p>",
+              "text_style": "body"
+            }
+          },
+          "button_P4nmrj": {
+            "type": "button",
+            "settings": {
+              "button_label": "Watch Now",
+              "button_link": "https://vimeo.com/1000875578",
+              "button_style_secondary": false
+            }
+          }
+        },
+        "block_order": [
+          "heading_FfengH",
+          "text_GTrt4d",
+          "button_P4nmrj"
+        ],
+        "settings": {
+          "image": "shopify://shop_images/ESS_Review_714fd8b1-14b2-4fc4-b641-b462f0ce39a8.png",
+          "height": "small",
+          "desktop_image_width": "medium",
+          "layout": "image_first",
+          "desktop_content_position": "top",
+          "desktop_content_alignment": "left",
+          "content_layout": "no-overlap",
+          "section_color_scheme": "scheme-9ce77f34-2e82-43a3-9567-63139d054c16",
+          "color_scheme": "scheme-9ce77f34-2e82-43a3-9567-63139d054c16",
+          "image_behavior": "zoom-in",
+          "mobile_content_alignment": "center",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "aa150d91-4c9c-494a-8d99-e40e0513bec0": {
+        "type": "multicolumn",
+        "blocks": {
+          "template--16184826232993__aa150d91-4c9c-494a-8d99-e40e0513bec0-column-1": {
+            "type": "column",
+            "settings": {
+              "image": "shopify://shop_images/CNTraveler.png",
+              "title": "",
+              "text": "",
+              "link_label": "Read More",
+              "link": "https://www.cntraveler.com/story/at-home-spa-day"
+            }
+          },
+          "template--16184826232993__aa150d91-4c9c-494a-8d99-e40e0513bec0-column-2": {
+            "type": "column",
+            "settings": {
+              "image": "shopify://shop_images/tiktok-logo-0-1.png",
+              "title": "",
+              "text": "",
+              "link_label": "Watch Now",
+              "link": "https://www.tiktok.com/@katelynfletcher/video/7270279365844307243"
+            }
+          },
+          "template--16184826232993__aa150d91-4c9c-494a-8d99-e40e0513bec0-column-3": {
+            "type": "column",
+            "settings": {
+              "image": "shopify://shop_images/GMA__Good_Morning_America__logo_2021.png",
+              "title": "",
+              "text": "",
+              "link_label": "Watch Now",
+              "link": "https://www.goodmorningamerica.com/shop/story/best-beauty-picks-2023-body-oils-glow-drops-96530649"
+            }
+          },
+          "column_JbWV8K": {
+            "type": "column",
+            "disabled": true,
+            "settings": {
+              "title": "Column",
+              "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+              "link_label": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "template--16184826232993__aa150d91-4c9c-494a-8d99-e40e0513bec0-column-1",
+          "template--16184826232993__aa150d91-4c9c-494a-8d99-e40e0513bec0-column-2",
+          "template--16184826232993__aa150d91-4c9c-494a-8d99-e40e0513bec0-column-3",
+          "column_JbWV8K"
+        ],
+        "disabled": true,
+        "settings": {
+          "title": "Featured On...",
+          "heading_size": "h1",
+          "image_width": "full",
+          "image_ratio": "adapt",
+          "columns_desktop": 3,
+          "column_alignment": "center",
+          "background_style": "primary",
+          "button_label": "",
+          "button_link": "",
+          "color_scheme": "background-1",
+          "columns_mobile": "1",
+          "swipe_on_mobile": false,
+          "padding_top": 24,
+          "padding_bottom": 36
+        }
+      }
+    },
+    "order": [
+      "image_banner_Gd4mzL",
+      "multirow_PX3wcg",
+      "featured_collection_wyfe9e",
+      "rich_text",
+      "featured_collection",
+      "rich_text_bVXRwP",
+      "rich_text_hQfpNG",
+      "1732062360de0b05f2",
+      "featured_collection_WhwwX3",
+      "image_with_text_fegpEe",
+      "rich_text_xVncG8",
+      "multirow_UzAEqq",
+      "custom_liquid_K8hMqp",
+      "1731986457e9070baf",
+      "collection_list_WzgR9H",
+      "newsletter_bEV6z6",
+      "f1b6ef72-b112-430e-bcc6-e32c43bb1516",
+      "multicolumn",
+      "video",
+      "collage",
+      "rich_text_DGP8Kz",
+      "multirow_9JTDAB",
+      "image_with_text_zqYhrw",
+      "aa150d91-4c9c-494a-8d99-e40e0513bec0"
+    ]
+  }
+  
